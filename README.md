@@ -14,8 +14,8 @@
 
 ### **| Cloud System**
 
-1. 전반적인 Cloud 산업
+전반적인 Cloud 산업
 - Cloud(1).ipynb
 
-2. AWS
+AWS
 - stateless부터점프서버까지.webp
