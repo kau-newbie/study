@@ -9,25 +9,28 @@
 
 #### **C**
 
-- WhatIsTheLinking.ipynb
+> WhatIsTheLinking.ipynb
+
+---
 
 ### **N/W**
 
 #### **N/W structure(L1 ~ App. Layer)**
-전반적인 NW 기초
-- NW(1)-NW첫걸음.ipynb
+- 전반적인 NW 기초
+> NW(1)-NW첫걸음.ipynb
 
-L1 - L2
-- datacommu_note_for_midterm.pdf
-- datacommu_noteforfinal.pdf
+- L1 - L2
+> datacommu_note_for_midterm.pdf
+> 
+> datacommu_noteforfinal.pdf
 
-L3 - App. Layer
-- computer_info_nw.ipynb
+- L3 - App. Layer
+> computer_info_nw.ipynb
 
 #### **Cloud System**
 
-전반적인 Cloud 산업
-- Cloud(1).ipynb
+- 전반적인 Cloud 산업
+> Cloud(1).ipynb
 
-AWS
-- stateless부터점프서버까지.webp
+- AWS
+> stateless부터점프서버까지.webp
